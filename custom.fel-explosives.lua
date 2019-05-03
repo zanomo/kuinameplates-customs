@@ -84,6 +84,7 @@ function mod:Initialise()
         ruRU = 'Взрывчатка',
         koKR = '폭발물',
         zhCN = '爆炸物',
+        zhTW = '炸藥',
     }
     mob_name = (locale and names[locale]) or names.enUS
 end
